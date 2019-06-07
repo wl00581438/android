@@ -20,7 +20,7 @@
     <string name="server_url" formatted="false"></string>
     <bool name="show_server_url_input">true</bool>
     <bool name="show_welcome_link">true</bool>
-    <string name="welcome_link_url" formatted="false">"https://owncloud.com/mobile/new"</string>
+    <string name="welcome_link_url" formatted="false">"https://www.aceredc.com/Products/Box101"</string>
     <string name="share_api_link" formatted="false"></string>
 
     <!-- Flags to setup the authentication methods available in the app -->
@@ -66,11 +66,14 @@
     <bool name="feedback_enabled">true</bool>
     <bool name="privacy_policy_enabled">true</bool>
     <bool name="wizard_enabled">true</bool>
-    <string name="url_privacy_policy" formatted="false">https://owncloud.com/privacy-legal/</string>
-    <string name="url_help" formatted="false">https://owncloud.com/mobile/help</string>
+    <!--<string name="url_privacy_policy" formatted="false">https://owncloud.com/privacy-legal/</string>-->
+    <!--<string name="url_help" formatted="false">https://owncloud.com/mobile/help</string>-->
+    <string name="url_privacy_policy" formatted="false">https://www.aceredc.com/Privacy</string>
+    <string name="url_help" formatted="false">https://www.aceredc.com/Products/Box101</string>
     <string name="url_imprint" formatted="false"></string>
     <string name="mail_recommend" formatted="false">"mailto:"</string>
-    <string name="mail_feedback" formatted="false">"mailto:android-app@owncloud.com"</string>
+    <!--<string name="mail_feedback" formatted="false">"mailto:android-app@owncloud.com"</string>-->
+    <string name="mail_feedback" formatted="false">"mailto:steven.chang@acer.com "</string>
     <string name="url_app_download" formatted="false">"https://play.google.com/store/apps/details?id=com.owncloud.android"</string>
     <string name="url_sync_calendar_contacts">"https://play.google.com/store/apps/details?id=at.bitfire.davdroid"</string>
 
