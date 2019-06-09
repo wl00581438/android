@@ -20,15 +20,15 @@
 <resources>
 
     <!-- standard material color definitions -->
-    <color name="primary">@color/owncloud_blue</color>
+    <color name="primary">@color/box101_blue</color>
     <color name="primary_dark">#162233</color>
-    <color name="color_accent">@color/owncloud_blue_accent</color>
+    <color name="color_accent">@color/box101_blue_accent</color>
 
     <!-- Colors -->
-    <color name="owncloud_blue">#92BD35</color>
-    <color name="owncloud_blue_accent">#92BD35</color>
-    <!--<color name="owncloud_blue">#1D2D44</color>-->
-    <!--<color name="owncloud_blue_accent">#35537A</color>-->
+    <color name="box101_blue">#92BD35</color>
+    <color name="box101_blue_accent">#92BD35</color>
+    <color name="owncloud_blue">#1D2D44</color>
+    <color name="owncloud_blue_accent">#35537A</color>
     <color name="owncloud_blue_bright">#00ddff</color>
 
     <color name="list_item_lastmod_and_filesize_text">@color/secondaryTextColor</color>
