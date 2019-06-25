@@ -128,7 +128,7 @@ public abstract class DrawerActivity extends ToolbarActivity {
             // Set background header image and logo, if any
             if (getResources().getBoolean(R.bool.use_drawer_background_header)) {
                 ((ImageView) findNavigationViewChildById(R.id.drawer_header_background))
-                        .setImageResource(R.drawable.drawer_header_background);
+                        .setImageResource(R.drawable.box101_login_page);
             }
 
             if (mDrawerLogo != null && getResources().getBoolean(R.bool.use_drawer_logo)) {
