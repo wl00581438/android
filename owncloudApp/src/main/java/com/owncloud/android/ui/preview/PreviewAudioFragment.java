@@ -221,10 +221,10 @@ public class PreviewAudioFragment extends FileFragment {
                 Bitmap bitmap = BitmapFactory.decodeByteArray(data, 0, data.length);
                 mImagePreview.setImageBitmap(bitmap); //associated cover art in bitmap
             } else {
-                mImagePreview.setImageResource(R.drawable.logo);
+                mImagePreview.setImageResource(R.drawable.logo2);
             }
         } catch (Throwable t) {
-            mImagePreview.setImageResource(R.drawable.logo);
+            mImagePreview.setImageResource(R.drawable.logo2);
         }
     }
 

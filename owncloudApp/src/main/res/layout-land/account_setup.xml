@@ -52,7 +52,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:contentDescription="@string/app_name"
-                android:src="@drawable/logo"
+                android:src="@drawable/logo2"
                 />
 
             <ScrollView
