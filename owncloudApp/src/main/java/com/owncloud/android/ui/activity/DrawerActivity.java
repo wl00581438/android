@@ -132,7 +132,7 @@ public abstract class DrawerActivity extends ToolbarActivity {
             }
 
             if (mDrawerLogo != null && getResources().getBoolean(R.bool.use_drawer_logo)) {
-                mDrawerLogo.setImageResource(R.drawable.drawer_logo);
+                mDrawerLogo.setImageResource(R.drawable.logo_icon);
             }
 
             mAccountChooserToggle = (ImageView) findNavigationViewChildById(R.id.drawer_account_chooser_toogle);
