@@ -542,4 +542,7 @@
   <string name="welcome_feature_6_title">在當前文件夾內搜索</string>
   <string name="welcome_feature_7_text">一下子選中全部文件</string>
   <string name="welcome_feature_8_text">文件自動同步</string>
+  <string name="prefs_pattern">圖案鎖</string>
+  <string name="prefs_touches_with_other_visible_windows">使用其他可見螢幕</string>
+  <string name="prefs_touches_with_other_visible_windows_summary">當視圖被另一個可見窗口遮擋時允許觸碰。啟用它以使用輕量過濾應用程序。</string>
 </resources>
