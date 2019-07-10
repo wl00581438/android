@@ -545,4 +545,12 @@
   <string name="prefs_pattern">圖案鎖</string>
   <string name="prefs_touches_with_other_visible_windows">使用其他可見螢幕</string>
   <string name="prefs_touches_with_other_visible_windows_summary">當視圖被另一個可見窗口遮擋時允許觸碰。啟用它以使用輕量過濾應用程序。</string>
+    <string name="clicks_to_be_developer">你 %1$d 點擊旁邊以許可開發選單</string>
+  <string name="confirmation_touches_with_other_windows_message">在您自己的權限下使用此功能，惡意應用程序可能會試圖欺騙您使用其他視圖執行某些操作</string>
+  <string name="file_list_empty_available_offline">無可用離線檔案</string>
+  <string name="prefs_sync_calendar_contacts_summary">安裝 DAVx⁵</string>
+  <string name="uploader_upload_available_offline_files">上傳許可離線檔案</string>
+  <string name="uploader_upload_camera_upload_files">上傳相機上傳檔案</string>
+  <string name="uploader_upload_requested_from_wifi_files">取得wifi文件上傳許可中</string>
+    <string name="logcat">紀錄</string>
 </resources>

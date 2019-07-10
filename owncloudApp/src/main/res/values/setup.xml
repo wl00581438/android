@@ -3,7 +3,7 @@
 
     <!-- App name  and other strings-->
     <string name="app_name" formatted="false">Box101</string>
-    <string name="account_type" formatted="false">owncloud</string>    <!-- better if was a domain name; but changing it now would require migrate accounts when the app is updated -->
+    <string name="account_type" formatted="false">box101</string>    <!-- better if was a domain name; but changing it now would require migrate accounts when the app is updated -->
     <string name="authority" formatted="false">org.owncloud</string>
     <string name="document_provider_authority" formatted="false">org.owncloud.documents</string>
     <string name="file_provider_authority" formatted="false">org.owncloud.files</string>

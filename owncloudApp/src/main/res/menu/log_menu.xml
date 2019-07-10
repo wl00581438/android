@@ -13,6 +13,6 @@
         android:icon="@drawable/ic_lock_open"
         android:orderInCategory="100"
         app:showAsAction="never"
-        android:title="Logcat"/>
+        android:title="@string/logcat"/>
 
 </menu>
