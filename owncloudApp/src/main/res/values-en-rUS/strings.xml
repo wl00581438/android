@@ -5,4 +5,7 @@
   <!--TODO re-enable when "Accounts" is available in Navigation Drawer-->
   <!--<string name="drawer_item_accounts">Accounts</string>-->
   <string name="empty"></string>
+    <string name="welcome_link_url">https://www.aceredc.com/SetCulture?culture=en-US</string>
+  <string name="url_help">https://www.aceredc.com/SetCulture?culture=en-US</string>
+  <string name="url_privacy_policy">https://www.aceredc.com/SetCulture?culture=en-US</string>
 </resources>
