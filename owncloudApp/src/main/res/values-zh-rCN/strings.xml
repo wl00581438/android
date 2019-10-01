@@ -539,7 +539,7 @@
   <string name="welcome_feature_8_title">离线可用</string>
   <string name="welcome_feature_8_text">文件自动同步</string>
   <string name="no_borwser_installed_alert">未安装浏览器。请安装浏览器以使用安全登陆。</string>
-    <string name="clicks_to_be_developer">" 你 %1$d 点击旁边以许可开发选单"</string>
+  <string name="clicks_to_be_developer">" 你 %1$d 点击旁边以许可开发选单"</string>
   <string name="confirmation_touches_with_other_windows_message">"在您自己的权限下使用此功能，恶意应用程序可能会试图欺骗您使用其他视图执行某些操作 "</string>
   <string name="file_list_empty_available_offline">"无可用离线档案 "</string>
   <string name="logcat">纪录</string>
@@ -549,4 +549,8 @@
   <string name="uploader_upload_available_offline_files">"上传许可离线档案 "</string>
   <string name="uploader_upload_camera_upload_files">"上传相机上传档案 "</string>
   <string name="uploader_upload_requested_from_wifi_files">"取得wifi文件上传许可中 "</string>
+    <string name="welcome_link_url">"https://www.aceredc.com/SetCulture?culture=zh-CN "</string>
+  <string name="url_privacy_policy">https://www.aceredc.com/SetCulture?culture=zh-CN</string>
+  <string name="url_help">"https://www.aceredc.com/SetCulture?culture=zh-CN "</string>
+
 </resources>

@@ -60,8 +60,8 @@ android {
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 28
-
-        versionCode = 21002000
+        applicationId "com.box101.plus"
+        versionCode = 21002001
         versionName = "2.11.0-beta.1"
 
         buildConfigField "String", gitRemote, "\"" + getGitOriginRemote() + "\""
